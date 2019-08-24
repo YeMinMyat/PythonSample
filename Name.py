@@ -1,5 +1,5 @@
 x = "YeMin";
 y = "Myat";
-a = x + y;
-print(a)
-
+b = x + y;
+print(b)
+	
