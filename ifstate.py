@@ -1,18 +1,18 @@
 #if Statement
 
-x = float(input("Please enter an integer: "))
+y = float(input("Please enter an integer: "))
 
-if x < 5:
-	print("x is smaller than 5")
+if y < 5:
+	print("y is smaller than 5")
 
-elif x > 5:
-	print("x is bigger than 5")
+elif y > 5:
+	print("y is bigger than 5")
 
-elif x == 5:
-	print("x is equal to 5")
+elif y == 5:
+	print("y is equal to 5")
 
 else:
-	print("x is nothing")
+	print("y is nothing")
 
 
 
