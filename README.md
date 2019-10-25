@@ -17,7 +17,7 @@ numpy.pluralized('image') # returns 'Image'
 numpy.pluralized('goose') # returns 'geese'
 numpy.singularize('phenomena') #returns 'phenomenon'
 ```
-![cat Image](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![###cat Image###](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 
 ## Contributing
 
