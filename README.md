@@ -1,15 +1,20 @@
-# The Largest Heading
-## The middle Heading
-### The small Heading
+#numpy
 
 
-This is **bold**
-This is *italic*
-~~Android Version 1.0~~ is a mistaken text
-This is ***Highlight text***
-12345
+Numpy is A Python Library for dealing with numerical useful python package.
 
-[GOOGLE SEARCH](www.google.com)
-[FACEBOOK PROFILE](www.facebook.com/YeMinMyat.info)
-[Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+Use the package manager [numpy](http://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
 
+```bash
+pip install numpy
+```
+
+## Usage
+
+```python
+import numpy
+numpy.pluralized('image') # returns 'Image'
+numpy.pluralized('goose') # returns 'geese'
+numpy.singularize('phenomena') #returns 'phenomenon'
+
+![alt
