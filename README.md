@@ -17,10 +17,30 @@ numpy.pluralized('image') # returns 'Image'
 numpy.pluralized('goose') # returns 'geese'
 numpy.singularize('phenomena') #returns 'phenomenon'
 ```
-![###cat Image###](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![cat Image](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 
 ## Contributing
 
 ```
 Pull Request are Welcome.For Major Changes,Please open an issue first to discuss what you would like to change.
 ```
+```python
+from math import pi
+```
+-numpy
+-maplotlib
+-scipy
+-tensor-core
+
+Please make sure to update tests as appropriate.
+
+-![Red – FF0000]'RED'
+
+```diff
+-text in red
++text in green
+!text in orange
+#text in grey
+```
+
+[MTI](http://choosealicense.com/licenses/mit/)
