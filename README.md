@@ -1,4 +1,4 @@
-#numpy
+# numpy
 
 
 Numpy is A Python Library for dealing with numerical useful python package.
@@ -17,4 +17,10 @@ numpy.pluralized('image') # returns 'Image'
 numpy.pluralized('goose') # returns 'geese'
 numpy.singularize('phenomena') #returns 'phenomenon'
 
-![alt
+![alt text](http://http://www.stellaandchewys.com.wp-content/uploads/maplechristmas.jpg)
+
+##Contributing
+
+```
+Pull Request are Welcome.For Major Changes,Please open an issue first to discuss what you would like to change.
+```
