@@ -45,6 +45,6 @@ Please make sure to update tests as appropriate.
 ```diff
 -coca cola
 +shark
--blue
+!blue
 ```
 [MTI](http://choosealicense.com/licenses/mit/)
