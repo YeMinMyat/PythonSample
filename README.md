@@ -42,5 +42,9 @@ Please make sure to update tests as appropriate.
 !text in orange
 #text in grey
 ```
-
+```diff
+-coca cola
+-shark
+-blue
+```
 [MTI](http://choosealicense.com/licenses/mit/)
