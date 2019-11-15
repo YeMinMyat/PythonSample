@@ -4,7 +4,7 @@ import turtle
 def tree(size, myTurtle):
 	myTurtle.pensize(size / 10)
 
-	if size < random.randint(1,2) * 20:
+	if size < random.randint(0,1) * 30:
 		myTurtle.color("green")
 	else:
 		myTurtle.color("brown")
@@ -33,9 +33,17 @@ myTurtle.color("brown", "blue")
 myTurtle.left(90)
 myTurtle.speed(0)
 myTurtle.penup()
-myTurtle.setpos(0, 200)
+myTurtle.setpos(-100,-250)
 myTurtle.pendown()
 
-tree(120, myTurtle)
+myTurtle2 = turtle.Turtle()
+myTurtle2.color("brown", "blue")
+myTurtle2.left(90)
+myTurtle2.speed(0)
+myTurtle2.penup()
+myTurtle2.setpos(300,-250)
+myTurtle2.pendown()
 
+tree(80, myTurtle)
+tree(80, myTurtle2)
 window.exitonclick()
