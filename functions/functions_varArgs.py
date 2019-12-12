@@ -53,3 +53,6 @@ def print_max(x, y):
 print_max(5,9)
 
 print(print_max.__doc__)
+
+def paper():
+	''''''
